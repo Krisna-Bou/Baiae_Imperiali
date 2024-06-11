@@ -299,6 +299,12 @@ a:hover:after {
 }
 
 /* IMAGES */
+
+img {
+	border-radius: 3px;
+	filter: drop-shadow(0 0 0.5rem grey);
+}
+
 .colosseum-img {
 	width: 100%;
 	height: auto;
